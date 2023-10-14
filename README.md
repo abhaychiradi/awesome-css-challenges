@@ -5,4 +5,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Expanding%20cards/index.html" target="_blank">Expanding Cards</a>
   </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Progress%20Steps/index.html" target="_blank"></a>
+  </li>
 </ul>
