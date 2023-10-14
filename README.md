@@ -3,6 +3,6 @@ This repository contains mini CSS challenges that will help you improve your fro
 
 <ul>
   <li>
-    <a href="https://github.com/abhaychiradi/awesome-css-challenges/blob/main/Expanding%20cards/index.html" target="_blanck">Expanding Cards</a>
+    <a href="https://github.com/abhaychiradi/awesome-css-challenges/blob/main/Expanding%20cards/index.html" target="_blank">Expanding Cards</a>
   </li>
 </ul>
