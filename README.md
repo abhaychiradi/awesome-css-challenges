@@ -8,4 +8,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Progress%20Steps/index.html" target="_blank">Progress Steps</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Rotating%20Navigation/index.html" target="_blank">Rotating Navigation</a>
+  </li>
 </ul>
