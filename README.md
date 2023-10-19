@@ -3,7 +3,7 @@ This repository contains mini CSS challenges that will help you improve your fro
 
 <ul>
   <li>
-    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Expanding%20cards/index.html" target="_blank" style="text-decoration:none">Expanding Cards</a>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Expanding%20cards/index.html" target="_blank">Expanding Cards</a>
   </li>
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Progress%20Steps/index.html" target="_blank">Progress Steps</a>
