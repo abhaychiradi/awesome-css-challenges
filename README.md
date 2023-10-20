@@ -14,4 +14,7 @@ This repository contains mini CSS challenges that will help you improve your fro
    <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Hidden%20Search%20Widget/index.html" target="_blank">Hidden Search Widget</a>
   </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Blurry%20Loading/index.html" target="_blank">Blurry Loading</a>
+  </li>
 </ul>
