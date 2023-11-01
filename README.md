@@ -17,4 +17,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Blurry%20Loading/index.html" target="_blank">Blurry Loading</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Scroll%20Animation/index.html" target="_blank">Scroll Animation</a>
+  </li>
 </ul>
