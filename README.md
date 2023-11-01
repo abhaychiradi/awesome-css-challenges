@@ -20,4 +20,7 @@ This repository contains mini CSS challenges that will help you improve your fro
    <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Scroll%20Animation/index.html" target="_blank">Scroll Animation</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Split%20Landing%20Page/index.html" target="_blank">Split Landing Page</a>
+  </li>
 </ul>
