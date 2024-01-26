@@ -26,4 +26,7 @@ This repository contains mini CSS challenges that will help you improve your fro
    <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Form%20Wave%20Animation/index.html" target="_blank">Form Wave Animation</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Sound%20Board/index.html" target="_blank">Sound Board</a>
+  </li>
 </ul>
