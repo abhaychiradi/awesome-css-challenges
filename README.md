@@ -29,4 +29,7 @@ This repository contains mini CSS challenges that will help you improve your fro
    <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Sound%20Board/index.html" target="_blank">Sound Board</a>
   </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Dad%20Jokes/index.html" target="_blank">Dad Jokes</a>
+  </li>
 </ul>
