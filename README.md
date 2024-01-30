@@ -32,4 +32,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Dad%20Jokes/index.html" target="_blank">Dad Jokes</a>
   </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Event%20Key%20Codes/index.html" target="_blank">Event Key Codes</a>
+  </li>
 </ul>
