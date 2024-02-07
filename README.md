@@ -38,4 +38,7 @@ This repository contains mini CSS challenges that will help you improve your fro
     <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/FAQ%20Collapse/index.html" target="_blank">FAQ Collapse</a>
   </li>
+      <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Randon%20Choice%20Picker/index.html" target="_blank">Random Choice Picker</a>
+  </li>
 </ul>
