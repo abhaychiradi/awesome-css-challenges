@@ -35,10 +35,13 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Event%20Key%20Codes/index.html" target="_blank">Event Key Codes</a>
   </li>
-    <li>
+  <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/FAQ%20Collapse/index.html" target="_blank">FAQ Collapse</a>
   </li>
-      <li>
+   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Randon%20Choice%20Picker/index.html" target="_blank">Random Choice Picker</a>
+  </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Animated%20Navigation/index.html" target="_blank">Animated Navigation</a>
   </li>
 </ul>
