@@ -44,4 +44,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Animated%20Navigation/index.html" target="_blank">Animated Navigation</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/increment%20Counter/index.html" target="_blank">Increment Counter</a>
+  </li>
 </ul>
