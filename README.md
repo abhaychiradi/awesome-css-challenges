@@ -47,4 +47,7 @@ This repository contains mini CSS challenges that will help you improve your fro
    <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Increment%20Counter/index.html" target="_blank">Increment Counter</a>
   </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Drink%20Water/index.html" target="_blank">Drink Water</a>
+  </li>
 </ul>
