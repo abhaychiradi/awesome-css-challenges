@@ -53,4 +53,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Movie%20App/index.html" target="_blank">Movie App</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Backround Slider/index.html" target="_blank">Backround Slider</a>
+  </li>
 </ul>
