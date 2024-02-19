@@ -59,4 +59,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Theme%20Clock/index.html" target="_blank">Theme Clock</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Button%20Ripple%20Effect/index.html" target="_blank">Button Ripple Effect</a>
+  </li>
 </ul>
