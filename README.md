@@ -62,4 +62,7 @@ This repository contains mini CSS challenges that will help you improve your fro
    <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Button%20Ripple%20Effect/index.html" target="_blank">Button Ripple Effect</a>
   </li>
+   <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Drag%20and%20Drop/index.html" target="_blank">Drag and Drop</a>
+  </li>
 </ul>
