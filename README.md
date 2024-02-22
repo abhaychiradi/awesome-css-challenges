@@ -68,4 +68,7 @@ This repository contains mini CSS challenges that will help you improve your fro
   <li>
     <a href="https://abhaychiradi.github.io/awesome-css-challenges/Drawing%20App/index.html" target="_blank">Drawing App</a>
   </li>
+  <li>
+    <a href="https://abhaychiradi.github.io/awesome-css-challenges/Kinetic%20CSS%20Loader/index.html" target="_blank">Kinetic CSS Loader</a>
+  </li>
 </ul>
